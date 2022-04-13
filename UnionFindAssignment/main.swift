@@ -2,10 +2,9 @@
 //  main.swift
 //  UnionFindAssignment
 //
-//  Created by Mark Wong on 2022-04-13.
+//  Created by Mark Wong on 2022-04-12.
 //
 
 import Foundation
 
-print("Hello, World!")
 

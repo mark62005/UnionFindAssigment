@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		43C55AE728071AEE0096A993 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C55AE628071AEE0096A993 /* main.swift */; };
+		43C55AEE28071AF50096A993 /* UF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C55AED28071AF50096A993 /* UF.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		43C55AE328071AEE0096A993 /* UnionFindAssignment */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = UnionFindAssignment; sourceTree = BUILT_PRODUCTS_DIR; };
 		43C55AE628071AEE0096A993 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		43C55AED28071AF50096A993 /* UF.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UF.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 		43C55AE528071AEE0096A993 /* UnionFindAssignment */ = {
 			isa = PBXGroup;
 			children = (
+				43C55AED28071AF50096A993 /* UF.swift */,
 				43C55AE628071AEE0096A993 /* main.swift */,
 			);
 			path = UnionFindAssignment;
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43C55AEE28071AF50096A993 /* UF.swift in Sources */,
 				43C55AE728071AEE0096A993 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
